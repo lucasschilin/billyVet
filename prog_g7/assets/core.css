@@ -1,0 +1,36 @@
+/* modificações Bootstrap */
+
+.form-group{
+	margin-top: 1rem;
+}
+.margin-5{
+	margin-bottom: 5px;
+	margin-right: 5px;
+}
+
+/* Modificações gerais */ 
+
+.noresize {
+  resize: none; 
+}
+
+.red{
+	color:red;
+}
+
+.table_gray{
+	background-color: #737373
+}
+
+#realizar{
+	display: none;
+}
+
+#visualizar{
+	display: none;
+}
+
+footer{
+	display: contents;
+}
+
