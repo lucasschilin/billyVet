@@ -4,11 +4,11 @@ System developed by students of the 3rd year of the computer technician at IFRS 
 
 ## Authors
 Alguns deles:
-* **Lucas Schlindwein** - [lucasschlindwein](https://github.com/TobiasTrein)
-* **Tauana Auler** - [strawberryogurt](https://github.com/strawberryougurt)
+* **Lucas Schlindwein** - [lucasschlindwein](https://github.com/lucasschlindwein)
+* **Tauana Auler** - [strawberryogurt](https://github.com/strawberryogurt)
 * **Tobias trein** - [TobiasTrein](https://github.com/TobiasTrein)
 * **Vinicius Hartmann Ferreira** - [vinihf](https://github.com/vinihf)
-* **Lucas Andres Soudheir** - [andressoudheir](https://github.com/andressoudheir)
+* **Lucas Andres Soudheir** - [andressoudheir](https://github.com/andresoudheir)
 
 ## Tecnologias
 * JavaScript
