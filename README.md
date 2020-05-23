@@ -1,6 +1,6 @@
 # BillyVet
 
-System developed by students of the 3rd year of the computer technician at IFRS in 2018.
+:rocket: System developed by students of the 3rd year of the computer technician at IFRS in 2018.
 
 ## Authors
 Alguns deles:
@@ -23,5 +23,8 @@ Alguns deles:
 
 ## Bibliotecas
 * jQuery
+
+## Modelo de desenvolvimento
+* MVC
 
 
